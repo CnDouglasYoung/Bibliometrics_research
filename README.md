@@ -49,3 +49,7 @@
 学科交叉情况桑基图：
 
 ![学科交叉情况桑基图](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/%E5%9B%BE%E8%A1%A8/%E5%AD%A6%E7%A7%91%E4%BA%A4%E5%8F%89%E6%83%85%E5%86%B5%E6%A1%91%E5%9F%BA%E5%9B%BE.png?raw=true)
+
+核心作者网络：
+
+![核心作者网络](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/%E5%9B%BE%E8%A1%A8/%E6%A0%B8%E5%BF%83%E4%BD%9C%E8%80%85%E7%BD%91%E7%BB%9C.PNG?raw=true)
