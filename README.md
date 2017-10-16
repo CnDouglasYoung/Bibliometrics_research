@@ -19,3 +19,7 @@
 * 女友是劳动与社会保障专业的，这篇文章来打算俩人共同发表，帮她丰富一下研究经历，但是后来并没有用上。
 
 * 文章仅是从文献学的角度来考量，不清楚此研究中的具体情况，一定有不少错误或不严谨的地方，请大家多多包容。
+
+##### 主要图片：
+
+![学科交叉情况桑基图](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/%E5%9B%BE%E8%A1%A8/%E5%AD%A6%E7%A7%91%E4%BA%A4%E5%8F%89%E6%83%85%E5%86%B5%E6%A1%91%E5%9F%BA%E5%9B%BE.png?raw=true)
