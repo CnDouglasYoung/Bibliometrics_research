@@ -20,7 +20,7 @@
 会等渠道进行维权，进而使学者更加关注这一领域的研究，而这两次因果传递
 的时间大致为 2 年。
 
-![样本文献的年代分布图](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/样本文献的年代分布图.png?raw=true)
+![样本文献的年代分布图](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/%E5%9B%BE%E8%A1%A8/%E6%A0%B7%E6%9C%AC%E6%96%87%E7%8C%AE%E7%9A%84%E5%B9%B4%E4%BB%A3%E5%88%86%E5%B8%83%E5%9B%BE.PNG?raw=true)
 
 *分散有余而集中不足，期刊分布中相关区期刊的数量相对不足，而作者分布
 中集中程度严重不足，同时缺乏长期在本领域研究做出可观贡献的核心作者。
@@ -40,11 +40,11 @@
 
 期刊整体分布图：
 
-![期刊整体分布图](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/期刊整体分布图.png?raw=true)
+![期刊整体分布图](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/%E5%9B%BE%E8%A1%A8/%E6%9C%9F%E5%88%8A%E6%95%B4%E4%BD%93%E5%88%86%E5%B8%83.png?raw=true)
 
 学科分布旭日图：
 
-![学科分布旭日图](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/学科分布_2.png?raw=true)
+![学科分布旭日图](https://github.com/CnDouglasYoung/Bibliometrics_research/blob/master/%E5%9B%BE%E8%A1%A8/%E5%AD%A6%E7%A7%91%E5%88%86%E5%B8%83_2.png?raw=true)
 
 学科交叉情况桑基图：
 
