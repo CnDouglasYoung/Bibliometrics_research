@@ -17,7 +17,7 @@ class BeautifulPicture():
             'host': '127.0.0.1',
             'port': 3306,
             'user': 'root',
-            'password': 'Yzd1995124',
+            'password': '',
             'db': 'test',
             'charset': 'utf8'
         }
